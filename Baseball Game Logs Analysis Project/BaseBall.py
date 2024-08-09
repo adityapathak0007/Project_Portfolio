@@ -5,7 +5,7 @@ import pandas as pd
 #print(q1.head())
 
 #DtypeWarning: for remove this warning we have to use following code
-g1 = pd.read_csv("https://raw.githubusercontent.com/swapnilsaurav/Dataset/master/baseball_game_logs.csv", low_memory=False)
+g1 = pd.read_csv("https://github.com/adityapathak0007/Project_Portfolio/blob/8274188e799b1615269ad2d041760683d27a0db5/Baseball%20Game%20Logs%20Analysis%20Project/baseball_game_logs.csv", low_memory=False)
 print(g1.head())
 
 #Create a Multiindex
